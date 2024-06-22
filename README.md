@@ -3,3 +3,5 @@ This is a webscrapper project made to create a file of usernames, linkedinurl an
 One must simply enter their linkedin username, password and the post they want to scrap and run the script in python.
 
 Script is made using selenium and beautifulSoup
+
+It generates details of users who have interacted with a particular post
